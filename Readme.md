@@ -9,3 +9,7 @@ Yuvti is user-friendly application that can be accessed by anyone who has instal
 The phone starts vibrating and siren starts ringing. This features for both everyday safety and real emergencies, making it an ultimate tool for all.
 
 ![Untitled](images/Untitled.png)
+![image](https://user-images.githubusercontent.com/92200721/154799723-cf1dad18-f5df-4788-a9f9-68c8a10e15fe.png)
+![image](https://user-images.githubusercontent.com/92200721/154799741-0997fb8c-4a45-4e27-9c7f-6ee400b4909a.png)
+![image](https://user-images.githubusercontent.com/92200721/154799749-251d4915-0a71-4eb5-b8b3-60f937a2ffa2.png)
+![image](https://user-images.githubusercontent.com/92200721/154799763-723fedbc-9278-4d41-a725-2b73a6c9661d.png)
